@@ -1,0 +1,114 @@
+# MyAI_Assistant_Offline
+Multi-Purpose Offline AI Assistant Android App (Hindi + English) | Student, Business, Motivation &amp; Goal Helper | Fully Offline, Beginner-Friendly, Copy-Paste Ready
+# My AI Assistant - Offline
+
+*Multi-Purpose Offline Android AI App*  
+•⁠  ⁠Works completely offline  
+•⁠  ⁠Hindi + English support  
+•⁠  ⁠Modules: Student Helper, Business Helper, Motivation, Goal Planner  
+•⁠  ⁠Lightweight and beginner-friendly  
+•⁠  ⁠Persistent chat across rotation  
+
+## Features
+•⁠  ⁠Friendly chat interface with RecyclerView  
+•⁠  ⁠Smart Rule Engine with weighted scoring  
+•⁠  ⁠Offline deterministic AI (no internet required)  
+•⁠  ⁠Multi-language support (Hindi/English)  
+•⁠  ⁠Copy-Paste ready project for Android Studio  
+•⁠  ⁠Easily shareable APK  
+
+## Installation
+1.⁠ ⁠Clone the repository or download ZIP  
+2.⁠ ⁠Open Android Studio → File → New → Import Project  
+3.⁠ ⁠Let Gradle sync  
+4.⁠ ⁠Connect Android device or start emulator  
+5.⁠ ⁠Run the app  
+
+## Usage
+•⁠  ⁠Type greetings, study, business, or goal-related messages  
+•⁠  ⁠AI responds instantly offline  
+•⁠  ⁠Chat persists even after rotation  
+
+## License
+This project is licensed under the MIT License [15/02/26, 9:05:41 PM] ritwikspandey: # Built application files
+*.apk
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+build/
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log files
+*.log
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+.DS_Store
+
+# Kotlin specific
+*.kotlin_module
+[15/02/26, 9:06:00 PM] ritwikspandey: MIT License
+
+Copyright (c) 2026 [Ritwik S pandey]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+[...remaining MIT text...]
+[15/02/26, 9:06:17 PM] ritwikspandey: git init
+git add .
+git commit -m "Initial commit - Multi-Purpose Offline AI Android App"git remote add origin https://github.com/username/MyAI_Assistant_Offline.git
+git branch -M main
+git push -u origin main [15/02/26, 9:37:12 PM] ritwikspandey: Multi‑Purpose Offline AI Assistant Android App (Hindi + English)
+
+This is a fully offline, beginner‑friendly Android app that provides smart, on‑device responses without any network or internet dependency. It supports multiple helpers including:
+•⁠  ⁠Study Assistant (study plans, exam tips)
+•⁠  ⁠Business Helper (simple business guidance)
+•⁠  ⁠Motivation & Goal Planner (daily action steps)
+
+Chat history persists across configuration changes (e.g., screen rotation). The app is designed for students, non‑technical users, and rural / semi‑urban audiences. The repository includes the complete Android Studio project with a modern Material UI, rule‑based offline AI logic, and simple build instructions.
+
+Perfect for learning, local distribution, and small‑scale deployment with easy customization.
+[15/02/26, 9:37:29 PM] ritwikspandey: # My AI Assistant - Offline
+
+*Multi-Purpose Offline Android AI App*  
+•⁠  ⁠Works completely offline  
+•⁠  ⁠Hindi + English support  
+•⁠  ⁠Modules: Student Helper, Business Helper, Motivation, Goal Planner  
+•⁠  ⁠Lightweight and beginner-friendly  
+•⁠  ⁠Persistent chat across rotation
+
+## Features
+•⁠  ⁠Friendly chat interface using RecyclerView  
+•⁠  ⁠Smart Rule Engine with weighted scoring  
+•⁠  ⁠Offline deterministic AI (no internet required)  
+•⁠  ⁠Multi-language support (Hindi/English)  
+•⁠  ⁠Copy-Paste ready project for Android Studio  
+•⁠  ⁠Easily shareable APK  
+
+## Installation
+1.⁠ ⁠Clone the repository or download ZIP:  
+   ```bash
+   git clone https://github.com/ritwikfilms-sketch/MyAI_Assistant_Offline.git
