@@ -1,0 +1,11 @@
+Project Structure ritwikAI.com/
+├─ index.html
+├─ style.css
+├─ script.js
+├─ README.md
+├─ LICENSE
+└─ backend/
+    ├─ server.js
+    └─ package.json
+.github/workflows/
+└─ deploy-full.yml
